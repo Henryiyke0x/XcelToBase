@@ -1,4 +1,4 @@
-The tool allows users to upload Excel sheets, connect to databases, and import data, can be useful for a variety of individuals and professionals. Here are some categories of people who are likely to use this type of service:
+This tool allows users to upload Excel sheets, connect to databases, and import data, can be useful for a variety of individuals and professionals. Here are some categories of people who are likely to use this type of service:
 
 1. **Business Analysts:** Business analysts often work with data from different sources, and being able to easily import Excel data into a database can help them analyze and generate insights more efficiently.
 
