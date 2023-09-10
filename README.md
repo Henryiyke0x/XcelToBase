@@ -20,4 +20,4 @@ This tool allows users to upload Excel sheets, connect to databases, and import 
 
 10. **Non-Technical Users:** Even non-technical users who have data they want to organize and store can benefit from this tool's user-friendly interface.
 
-Keep in mind that the appeal of this tool will depend on its ease of use, robustness, and the clarity of its benefits. It might be helpful to conduct user surveys or market research to understand the specific needs and pain points of your potential users in order to tailor your solution accordingly..
+Keep in mind that the appeal of this tool will depend on its ease of use, robustness, and the clarity of its benefits. It might be helpful to conduct user surveys or market research to understand the specific needs and pain points of your potential users in order to tailor your solution accordingly...
