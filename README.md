@@ -14,7 +14,7 @@ This tool allows users to upload Excel sheets, connect to databases, and import 
 
 7. **Data Entry Professionals:** Individuals who work with large amounts of data entry might find it useful to upload data from Excel sheets directly into a database.
 
-8. **Web Developers:** Web developers who are building applications that require database integration might use this tool during development and testing phases.
+8. **Web Developers:** Web developers who are building applications that require database integration might use this tool during development and testing phases..
 
 9. **Consultants:** Consultants dealing with data analysis or system integration could use this tool to facilitate their work with clients.
 
